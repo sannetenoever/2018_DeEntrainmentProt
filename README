@@ -1,3 +1,3 @@
 These script are create to make a protocol for brain stimulation.
 
-It extracts from ongoing EEG specific frequency ranges
+It extracts from ongoing EEG specific frequency ranges and puts it onto a stimulus variable that can be read from the datastreamer
